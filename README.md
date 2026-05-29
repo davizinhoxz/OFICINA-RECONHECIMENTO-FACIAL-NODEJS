@@ -2,3 +2,12 @@
 BLABLABLABLA
 
 Davizao1984.
+
+## lINK
+https://whesaoeokapciljmzhmk.supabase.co/rest/v1/
+
+
+## API KEYS - CHAVE DA API
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndoZXNhb2Vva2FwY2lsam16aG1rIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODAwNTgzMTIsImV4cCI6MjA5NTYzNDMxMn0._jvbdVW5rmcmIxe1ORgr9mFwgyo5gbJgIEvugvdLPK8
+
+
